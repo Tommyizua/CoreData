@@ -1,0 +1,3 @@
+# CoreData
+CoreData task
+Core
